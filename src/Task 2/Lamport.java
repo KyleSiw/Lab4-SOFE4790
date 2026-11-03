@@ -3,7 +3,7 @@ import java.util.Scanner;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.*;
-
+package Task 2;
 public class Lamport{
 int e[][]=new int[10][10];
 int en[][]=new int[10][10];
